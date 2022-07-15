@@ -1,0 +1,8 @@
+name = input('Qual o seu nome ? ')
+age = input('Qual a sua idade ? ')
+weight = input('Qual o seu peso ? ')
+print('Nome: ', name, ' Idade: ', age, ' Peso: ', weight)
+p = input('Digite Primeiro Número de 0 a 9: ')
+s = input('Digite Segundo Número de 0 a 9: ')
+print(int(p)+int(s))
+print('Hello {}'.format(name))
