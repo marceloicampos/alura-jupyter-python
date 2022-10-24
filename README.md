@@ -2,17 +2,29 @@
 
 sudo apt install python3
 
-python3 --version
+```python3 --version```
 
 sudo apt install python3-pip
 
-python3 -m pip --version
+```python3 -m pip --version```
+
+sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
 
 ---
 
 python3 -m ensurepip --default-pip
 
 python3 -m pip install --upgrade pip setuptools wheel
+
+---
+
+pip install pandas
+
+pip install seaborn
+
+pip install matplotlib
+
+pip install numpy
 
 ---
 
