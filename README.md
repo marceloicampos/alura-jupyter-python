@@ -26,6 +26,8 @@ pip install matplotlib
 
 pip install numpy
 
+pip install scipy
+
 ---
 
 python3 -m venv tutorial_env
