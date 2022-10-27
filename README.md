@@ -12,6 +12,8 @@ sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
 
 ---
 
+python -m ensurepip --upgrade
+
 python3 -m ensurepip --default-pip
 
 python3 -m pip install --upgrade pip setuptools wheel
@@ -27,6 +29,8 @@ pip install matplotlib
 pip install numpy
 
 pip install scipy
+
+pip install -U scikit-learn
 
 ---
 
