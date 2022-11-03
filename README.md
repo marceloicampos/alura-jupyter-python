@@ -30,7 +30,13 @@ pip install numpy
 
 pip install scipy
 
+pip install pydot
+
 pip install -U scikit-learn
+
+pip install graphviz
+
+apt-get install graphviz
 
 ---
 
