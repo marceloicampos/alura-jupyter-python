@@ -39,6 +39,7 @@ pip install graphviz
 apt-get install graphviz
 
 pip install imbalanced-learn
+Nota: a biblioteca acima só é instalada se for aplicada um balanceamento
 
 ---
 
