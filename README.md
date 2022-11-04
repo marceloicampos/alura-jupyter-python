@@ -38,6 +38,8 @@ pip install graphviz
 
 apt-get install graphviz
 
+pip install imbalanced-learn
+
 ---
 
 python3 -m venv tutorial_env
